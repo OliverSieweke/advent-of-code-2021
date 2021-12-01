@@ -13,3 +13,5 @@
 </p>
 
 ## Puzzles
+
+- [Day 1: Sonar Sweep](./day1) [[parsing](./day1/parse.mjs), [solution](./day1/index.mjs)]
