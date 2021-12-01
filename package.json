@@ -1,0 +1,28 @@
+{
+  "name": "advent-of-code-20201",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverSieweke/advent-of-code-2021.git"
+  },
+  "keywords": [
+    "Advent of Code",
+    "2021",
+    "JavaScript"
+  ],
+  "author": "Oliver Sieweke",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/OliverSieweke/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/OliverSieweke/advent-of-code-2021#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "prettier": "^2.5.0"
+  }
+}
