@@ -14,5 +14,7 @@
 
 ## Puzzles
 
-- [Day 1: Sonar Sweep](./day1) [[parsing](./day1/parse.mjs), [solution](./day1/index.mjs)]
-- [Day 2: Dive!](./day2) [[parsing](./day2/parse.mjs), [solution](./day2/index.mjs)]
+| Day | Title                                              | Parsing                       | Solution                      |
+| --- | -------------------------------------------------- | ----------------------------- | ----------------------------- |
+| 1   | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [parse.mjs](./day1/parse.mjs) | [index.mjs](./day1/index.mjs) |
+| 2   | [Dive!](https://adventofcode.com/2021/day/2)       | [parse.mjs](./day2/parse.mjs) | [index.mjs](./day2/index.mjs) |
